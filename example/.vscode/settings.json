@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp"
+    }
+}
